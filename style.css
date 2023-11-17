@@ -1,0 +1,57 @@
+body{
+  font-family: arial;
+}
+
+.todo{
+  height: 30px;
+  width: 200px;
+  padding-left: 10px;
+  margin-right: 4px;
+  border: 1.5px Solid rgb(140, 140, 140);
+  border-radius: 5px;
+  outline: none;
+}
+
+.date{
+  height: 31px;
+  width: 140px;
+  padding: 0px 10px;
+  margin-right: 4px;
+  border: 1.5px Solid rgb(140, 140, 140);
+  border-radius: 5px;
+  color: grey;
+  outline: none;
+}
+
+.add{
+  border: none;
+  background-color: green;
+  color: white;
+  height: 32px;
+  padding: 0px 25px;
+  cursor: pointer;
+}
+
+.display-list{
+  display: block;
+}
+
+.rows{
+  display: grid;
+  grid-template-columns: 220px 170px 75px;
+  margin: 10px 0px 10px 4px;
+  text-align: middle;
+  align-items: center;
+}
+
+.delete{
+  border: none;
+  background-color: darkred;
+  color: white;
+  height: 30px;
+  cursor: pointer;
+}
+
+.crossWord{
+  text-decoration: line-through;
+}
