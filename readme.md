@@ -2,7 +2,7 @@
 
 Simple and lightweight **Todo List Tracker** built to help you organize daily tasks
 
--- 
+---
 
 ## 🚀 Features
 - Add task with dates
@@ -12,5 +12,6 @@ Simple and lightweight **Todo List Tracker** built to help you organize daily ta
 -- 
 
 ![Demo](https://github.com/Mecha-Coder/Learn-Web-Dev/blob/main/Demo/Simple-Todo-List.gif)
+
 
 
