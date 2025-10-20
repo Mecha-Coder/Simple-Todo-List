@@ -11,7 +11,7 @@ Simple and lightweight **Todo List Tracker** built to help you organize daily ta
 
 ---
 
-### ⚙️ How to Run
+#### ⚙️ How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/Mecha-Coder/Simple-Todo-List
@@ -22,6 +22,7 @@ Simple and lightweight **Todo List Tracker** built to help you organize daily ta
 ---
 
 ![Demo](https://github.com/Mecha-Coder/Learn-Web-Dev/blob/main/Demo/Simple-Todo-List.gif)
+
 
 
 
