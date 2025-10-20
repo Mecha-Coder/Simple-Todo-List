@@ -1,4 +1,4 @@
-# 📝 Todo List
+### 📝 Todo List
 
 Simple and lightweight **Todo List Tracker** built to help you organize daily tasks
 
@@ -12,6 +12,7 @@ Simple and lightweight **Todo List Tracker** built to help you organize daily ta
 ---
 
 ![Demo](https://github.com/Mecha-Coder/Learn-Web-Dev/blob/main/Demo/Simple-Todo-List.gif)
+
 
 
 
