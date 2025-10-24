@@ -2,6 +2,8 @@
 
 Simple and lightweight **Todo List Tracker** built to help you organize daily tasks
 
+![Demo](https://github.com/Mecha-Coder/Learn-Web-Dev/blob/main/Demo/Simple-Todo-List.gif)
+
 ---
 
 #### 🚀 Features
@@ -19,9 +21,7 @@ Simple and lightweight **Todo List Tracker** built to help you organize daily ta
 2. Navigate or `cd` into the folder
 3. Then, open the `index.html` file in your browser
 
----
 
-![Demo](https://github.com/Mecha-Coder/Learn-Web-Dev/blob/main/Demo/Simple-Todo-List.gif)
 
 
 
